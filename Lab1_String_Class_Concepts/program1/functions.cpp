@@ -1,3 +1,4 @@
+//Copyright (c) 2021 Sanat Raorane
 #include<iostream>
 #include"stringhead.h"
 #define N 100
