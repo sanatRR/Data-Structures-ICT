@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614015502 source:c:\folders\codingrepos\data_structures_ict_2162\lab1_string_class_concepts\program1\program2\functions.cpp
+	<iostream>
+	"student.h"
+
+1614015644 c:\folders\codingrepos\data_structures_ict_2162\lab1_string_class_concepts\program1\program2\student.h
+
+1614015048 source:c:\folders\codingrepos\data_structures_ict_2162\lab1_string_class_concepts\program1\program2\main.cpp
+	<iostream>
+	"student.h"
+
