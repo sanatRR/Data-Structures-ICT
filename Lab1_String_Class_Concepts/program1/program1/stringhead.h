@@ -40,7 +40,7 @@ public:
     */
     void deleteSubstring(char delSub[]);
     /**
-    *A no-argument public constructor for String Class
+    *A public constructor for String Class
     */
     String(char arrayA[]);
 };
