@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614024435 source:c:\folders\codingrepos\data_structures_ict_2162\lab 3_queues_sparse_matrix\program2\program2\main.cpp
+	<iostream>
+	"sparseHead.h"
+
+1614017842 c:\folders\codingrepos\data_structures_ict_2162\lab 3_queues_sparse_matrix\program2\program2\sparsehead.h
+
+1614023098 source:c:\folders\codingrepos\data_structures_ict_2162\lab 3_queues_sparse_matrix\program2\program2\functions.cpp
+	"sparseHead.h"
+	<iostream>
+
