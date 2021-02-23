@@ -7,7 +7,7 @@ int main(){
     //Driver Code
     //Finding length
     String a("Hello World");
-  /*  cout<<a.length()<<endl;
+    cout<<"The length of "<<a.arrayA<<" is "<<a.length()<<endl;
     //Comparison
     String b("hello world");
     cout<<a.stringCompare(b.arrayA)<<endl;
@@ -15,10 +15,10 @@ int main(){
     String c(" in C++");
     cout<<a.stringConcat(c.arrayA)<<endl;
     //insert substring
-    a.insertSubstring("in C++",5);
+    a.insertSubstring("lll",2);
     cout<<a.arrayA<<endl;
     //Delete subString*/
-    a.deleteSubstring("Hello");
+    a.deleteSubstring("Helllllo");
     cout<<a.arrayA<<endl;
     return 0;
 }
