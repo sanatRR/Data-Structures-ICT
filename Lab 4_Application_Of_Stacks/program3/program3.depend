@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614073840 source:c:\folders\codingrepos\data_structures_ict_2162\lab 4_application_of_stacks\program3\functions.cpp
+	<iostream>
+	"stackHead.h"
+
+1614074084 c:\folders\codingrepos\data_structures_ict_2162\lab 4_application_of_stacks\program3\stackhead.h
+
+1614074075 source:c:\folders\codingrepos\data_structures_ict_2162\lab 4_application_of_stacks\program3\main.cpp
+	<iostream>
+	"stackHead.h"
+
