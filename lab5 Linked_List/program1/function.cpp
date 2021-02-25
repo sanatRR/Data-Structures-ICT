@@ -91,6 +91,7 @@ void SLL::del(elm e){
             head=tail=NULL;
         }else if(temp==head){
             head=head->next;
+            cout<<temp->data<<" deleted"<<endl;
             delete temp;
         }else if(temp==tail){
             tail=preTemp;
