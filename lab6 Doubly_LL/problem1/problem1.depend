@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614187457 source:c:\folders\codingrepos\data_structures_ict_2162\lab 4_application_of_stacks\problem1\main.cpp
+	<iostream>
+	"DLL.h"
+
+1614187656 source:c:\folders\codingrepos\data_structures_ict_2162\lab 4_application_of_stacks\problem1\functions.cpp
+	<iostream>
+	"DLL.h"
+
+1614187608 c:\folders\codingrepos\data_structures_ict_2162\lab 4_application_of_stacks\problem1\dll.h
+

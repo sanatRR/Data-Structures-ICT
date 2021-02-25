@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1614144306 source:e:\ds_lab\24-02-2020\lab5 linked_list\program1\function.cpp
+	<iostream>
+	"stackHead.h"
+
+1614144276 source:e:\ds_lab\24-02-2020\lab5 linked_list\program1\main.cpp
+	<iostream>
+	"stackHead.h"
+
+1614135286 e:\ds_lab\24-02-2020\lab5 linked_list\program1\stackhead.h
+
+1614163668 source:c:\folders\codingrepos\data_structures_ict_2162\lab5 linked_list\program1\main.cpp
+	<iostream>
+	"SLL.h"
+
+1614135286 c:\folders\codingrepos\data_structures_ict_2162\lab5 linked_list\program1\stackhead.h
+
+1614161982 source:c:\folders\codingrepos\data_structures_ict_2162\lab5 linked_list\program1\function.cpp
+	<iostream>
+	"stackHead.h"
+
+1614164222 c:\folders\codingrepos\data_structures_ict_2162\lab5 linked_list\program1\sll.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614225128 source:c:\folders\codingrepos\data_structures_ict_2162\lab6 doubly_ll\problem2\main.cpp
+	<iostream>
+	"DLL.h"
+
+1614220495 source:c:\folders\codingrepos\data_structures_ict_2162\lab6 doubly_ll\problem2\functions.cpp
+	"DLL.h"
+	<iostream>
+
+1614225118 c:\folders\codingrepos\data_structures_ict_2162\lab6 doubly_ll\problem2\dll.h
+
