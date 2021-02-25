@@ -167,12 +167,10 @@ void DLL::delPos(int pos){
 }
 
 void DLL::insertBefore(elm e,elm before){
-    cout<<"debug1"<<endl;
     if(head==NULL){
         cout<<before<<" doesn't exist"<<endl;
         return;
     }else{
-    cout<<"debug2"<<endl;
         Node *temp;
         temp=head;
         int pos=1;
@@ -184,20 +182,16 @@ void DLL::insertBefore(elm e,elm before){
             cout<<before<<" doesn't exist"<<endl;
             return;
         }else{
-    cout<<"debug3"<<endl;
             insertPos(e,pos);
         }
-    cout<<"debug4"<<endl;
     }
 }
 
 void DLL::insertAfter(elm e,elm after){
-    cout<<"debug1"<<endl;
     if(head==NULL){
         cout<<after<<" doesn't exist"<<endl;
         return;
     }else{
-    cout<<"debug2"<<endl;
         Node *temp;
         temp=head;
         int pos=1;
@@ -209,9 +203,7 @@ void DLL::insertAfter(elm e,elm after){
             cout<<after<<" doesn't exist"<<endl;
             return;
         }else{
-    cout<<"debug3"<<endl;
             insertPos(e,pos+1);
         }
-    cout<<"debug4"<<endl;
     }
 }
